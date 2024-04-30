@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Cyborg/static/css/main.e81b6ece.css",
+    "main.js": "/Cyborg/static/js/main.27959d41.js",
+    "static/media/banner-bg.jpg": "/Cyborg/static/media/banner-bg.f41cb78948354a14694e.jpg",
+    "static/media/featured-01.jpg": "/Cyborg/static/media/featured-01.b180f723012eb23f2e61.jpg",
+    "static/media/featured-03.jpg": "/Cyborg/static/media/featured-03.d25f81628b876881546e.jpg",
+    "static/media/popular-05.jpg": "/Cyborg/static/media/popular-05.fb754b91636cbce130d6.jpg",
+    "static/media/featured-02.jpg": "/Cyborg/static/media/featured-02.d00731eac8563842caa6.jpg",
+    "static/media/popular-06.jpg": "/Cyborg/static/media/popular-06.193c1358cf48df9af86f.jpg",
+    "static/media/popular-08.jpg": "/Cyborg/static/media/popular-08.126dd98013f11709e815.jpg",
+    "static/media/popular-02.jpg": "/Cyborg/static/media/popular-02.4ccab5053dc3ac9400fb.jpg",
+    "static/media/popular-01.jpg": "/Cyborg/static/media/popular-01.d591ee7091c3349e3472.jpg",
+    "static/media/popular-04.jpg": "/Cyborg/static/media/popular-04.b68fb4322ccb2976873d.jpg",
+    "static/media/popular-07.jpg": "/Cyborg/static/media/popular-07.bbef6817bf6ac3dcdb80.jpg",
+    "static/media/popular-03.jpg": "/Cyborg/static/media/popular-03.1c8955f99df2b3b94391.jpg",
+    "index.html": "/Cyborg/index.html",
+    "main.e81b6ece.css.map": "/Cyborg/static/css/main.e81b6ece.css.map",
+    "main.27959d41.js.map": "/Cyborg/static/js/main.27959d41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e81b6ece.css",
+    "static/js/main.27959d41.js"
+  ]
+}
