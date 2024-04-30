@@ -1,0 +1,25 @@
+.most-popular-item {
+  flex: 25%;
+}
+.card-wrapper {
+  background-color: var(--color-dark);
+  border-radius: calc(var(--border-rad-primary) / 2);
+  padding: calc(var(--padding-primary) / 2);
+  margin: calc(var(--margin-primary) / 5);
+}
+.card-wrapper img {
+  width: 100%;
+  border-radius: calc(var(--border-rad-primary) / 4);
+  margin-bottom: calc(var(--margin-primary) / 2);
+}
+.card-wrapper .content {
+  display: flex;
+  justify-content: space-between;
+}
+.card-wrapper .title {
+  font-size: 14px;
+  line-height: 1.5rem;
+}
+.card-wrapper ul li {
+  font-size: 13px;
+}
